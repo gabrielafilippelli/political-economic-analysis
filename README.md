@@ -1,4 +1,4 @@
-# Argentina Power Analysis: Political, Economic, and Social Indicators
+# Argentina Country Profile: Political-Economic Analysis & Econometrics in STATA
 
 ## Project Overview
 This project evaluates Argentina’s national power through political, economic, and social indicators. The goal is to identify key trends and metrics that influence Argentina’s geopolitical, economic, and societal strength, and provide actionable insights on potential future trajectories.
